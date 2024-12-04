@@ -50,6 +50,16 @@ Ez egy egyszerű Rock-Paper-Scissors (Kő-Papír-Olló) játék, ami addig játs
 
 ---
 
+### screenshots / képernyőképek
+
+![scrot_0](screenshots/scrot_0.png)
+
+![scrot_1](screenshots/scrot_1.png)
+
+![scrot_2](screenshots/scrot_2.png)
+
+---
+
 DevENV:
 - Fedora 41
 - Android Studio Maverick, Canary 4
