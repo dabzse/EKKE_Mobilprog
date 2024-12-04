@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Rock-Paper-Scissors GAME</string>
+    <string name="score">score</string>
+    <string name="computer">COMPUTER</string>
+    <string name="computer_chose_this">computer chose this</string>
+    <string name="player">PLAYER</string>
+    <string name="player_chose_this">player chose this</string>
+    <string name="time">Time</string>
+    <string name="rock">ROCK</string>
+    <string name="paper">PAPER</string>
+    <string name="scissors">SCISSORS</string>
+    <string name="pause_the_game">pause the game</string>
+
+    <string name="the_game_is_now_paused">the game is now paused</string>
+    <string name="continue_game">CONTINUE</string>
+
+</resources>
+
